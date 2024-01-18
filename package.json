@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "sqlite": "^5.1.1",
+    "sqlite3": "^5.1.7",
+    "twitch": "^4.6.7"
+  },
+  "name": "exutasbot-twitch",
+  "description": "twitch chatbot and stream management",
+  "version": "1.0.0",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "none"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vmdeom/exutasbot-twitch.git"
+  },
+  "keywords": [
+    "twitch",
+    "chat",
+    "chatbot"
+  ],
+  "author": "Vitor Mourão",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vmdeom/exutasbot-twitch/issues"
+  },
+  "homepage": "https://github.com/vmdeom/exutasbot-twitch#readme"
+}
